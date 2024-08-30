@@ -23,16 +23,16 @@ cli-toDoList [options] [command]
 
 ## a toDoList based out of your cli
 
-Options:
-  -V, --version   output the version number
-  -h, --help      display help for command
+### Options:
+  `-V, --version   output the version number`
+  `-h, --help      display help for command`
 
 ## Commands:
-  add <task>      adds a task in list
-  view            used to view all the tasks in your list
-  done <index>    Mark a task as done
-  clear           clears all the tasks
-  help [command]  display help for command
+  `add <task>      adds a task in list`
+  `view            used to view all the tasks in your list`
+  `done <index>    Mark a task as done`
+ ` clear           clears all the tasks`
+  `help [command]  display help for command`
 
 
 #Contributing
