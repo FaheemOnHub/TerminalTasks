@@ -4,19 +4,19 @@
 TerminalTasks is a command-line interface (CLI) tool for managing your to-do list directly from your terminal. Built for developers who prefer to stay in their command-line environment, TerminalTasks offers a simple yet powerful way to track and manage tasks.
 
 # Features:
-Add new tasks
-View all tasks
-Mark tasks as done
-Clear all tasks
-Simple and intuitive command structure
+Add new tasks<br>
+View all tasks<br>
+Mark tasks as done<br>
+Clear all tasks<br>
+Simple and intuitive command structure<br>
 
 # Installation:
-1.Clone the repository:
-git clone https://github.com/FaheemOnHub/TerminalTasks.git
-2.Navigate to the project directory:
-cd TerminalTasks
-3.Install dependencies:
-npm install
+1.Clone the repository:<br>
+git clone https://github.com/FaheemOnHub/TerminalTasks.git<br>
+2.Navigate to the project directory:<br>
+cd TerminalTasks<br>
+3.Install dependencies:<br>
+npm install<br>
 
 # Usage:
 cli-toDoList [options] [command]
