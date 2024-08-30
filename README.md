@@ -1,4 +1,6 @@
 # TerminalTasks
+<img width="701" alt="Screenshot 2024-08-30 at 10 53 11 PM" src="https://github.com/user-attachments/assets/1d1bd01f-5fbb-405b-88f8-ec1357c6b073">
+
 TerminalTasks is a command-line interface (CLI) tool for managing your to-do list directly from your terminal. Built for developers who prefer to stay in their command-line environment, TerminalTasks offers a simple yet powerful way to track and manage tasks.
 
 #Features:
