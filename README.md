@@ -28,11 +28,11 @@ cli-toDoList [options] [command]
   `-h, --help      display help for command`
 
 ## Commands:
-  `add <task>      adds a task in list`
-  `view            used to view all the tasks in your list`
-  `done <index>    Mark a task as done`
- ` clear           clears all the tasks`
-  `help [command]  display help for command`
+  `add <task>      adds a task in list`<br>
+  `view            used to view all the tasks in your list`<br>
+  `done <index>    Mark a task as done`<br>
+ ` clear           clears all the tasks`<br>
+  `help [command]  display help for command`<br>
 
 
 #Contributing
